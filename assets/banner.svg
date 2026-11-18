@@ -295,7 +295,7 @@
     <!-- Bottom Metric / Status Row -->
     <g transform="translate(0, 360)">
       <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#64748b" font-weight="500">
-        ✨ 10+ Curated SaaS Solutions &nbsp;•&nbsp; 🚀 15+ Open-Source Projects &nbsp;•&nbsp; 🌐 Production-Ready Viewers
+        ✨ 10+ Curated SaaS Solutions &#160;•&#160; 🚀 15+ Open-Source Projects &#160;•&#160; 🌐 Production-Ready Viewers
       </text>
     </g>
   </g>
