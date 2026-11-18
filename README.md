@@ -1,4 +1,7 @@
-# Awesome-3D-Asset-Showcase-Web-Showrooms
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome 3D Asset Showcase & Web Showrooms Banner" width="100%">
+</p>
+
 # Awesome-3D-Asset-Showcase-Web-Showrooms
 
 ## Top 3D Asset Showcase & Web Showrooms Ecosystem
