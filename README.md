@@ -130,3 +130,12 @@ Star the repo if you find it useful!
 
 **Made for 3D artists, e-commerce engineers, creative developers, and digital archivists.**  
 Let's make 3D asset showcasing and web showrooms more open, fast, and accessible.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Asset-Showcase-Web-Showrooms&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Asset-Showcase-Web-Showrooms_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Asset-Showcase-Web-Showrooms_growth.svg">
+  </picture>
+</a>
