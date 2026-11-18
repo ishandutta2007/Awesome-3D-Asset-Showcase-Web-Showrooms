@@ -23,35 +23,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Sketchfab](https://sketchfab.com/)**  
-  Leading cloud-based 3D publishing, portfolio showcase, and marketplace platform with PBR rendering, post-processing filters, annotations, and WebXR support.
-
-- **[Spline](https://spline.design)**  
-  Collaborative browser-based 3D design and interactive web showroom tool enabling real-time physics, state events, and lightweight HTML/React embeds.
-
-- **[Vectary](https://www.vectary.com/)**  
-  Cloud 3D design and product configurator studio built for interactive web embeds, Augmented Reality previews, and no-code e-commerce showcases.
-
-- **[Verge3D](https://soft8soft.com)**  
-  Artist-friendly 3D web toolkit that converts Blender, 3ds Max, and Maya scenes into interactive WebGL showrooms and configurators using visual Puzzles scripting.
-
-- **[p3d.in](https://p3d.in)**  
-  Streamlined cloud 3D model sharing and presentation platform featuring an interactive material editor, studio lighting presets, and mobile-ready embeds.
-
-- **[Clara.io](https://clara.io)**  
-  Cloud-based 3D modeling, animation, and web rendering platform providing browser-native scene hosting and embeddable 3D viewers.
-
-- **[Marmoset Viewer](https://marmoset.co)**  
-  WebGL rendering package exported from Marmoset Toolbag for showcasing high-fidelity game art, PBR materials, and wireframe/topology passes in browsers.
-
-- **[Threedy (instant3Dhub)](https://threedy.io)**  
-  Enterprise spatial computing and industrial 3D streaming platform designed for rendering massive CAD datasets inside web showrooms and AR applications.
-
-- **[PlayCanvas](https://playcanvas.com)**  
-  Cloud-hosted collaborative WebGL/WebGPU engine and visual editor widely used for building interactive virtual showrooms, automotive configurators, and web games.
-
-- **[Modelo](https://modelo.io)**  
-  Cloud-based 3D architectural and CAD collaboration platform offering browser walkthroughs, section cuts, and client presentation rooms.
+| Platform | Company Scale (Valuation / Revenue) | Pricing & Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- |
+| **[Sketchfab](https://sketchfab.com/)** | **~$100M+ valuation** (Acquired by Epic Games for ~$100M+; ~$8M–$10M ARR) | **Freemium** (Free plan allows public uploads with standard limits; paid tiers start at ~$15/mo for private models, larger files, and commercial features) | Leading cloud-based 3D publishing, portfolio showcase, and marketplace platform with PBR rendering, post-processing filters, annotations, and WebXR support. |
+| **[Spline](https://spline.design)** | **~$50M–$100M valuation** ($32M funding raised, incl. Series A; ~$4.7M ARR) | **Freemium** (Free plan includes unlimited personal files and basic web exports with watermark; paid tiers start at ~$12/seat/mo for unbranded exports, live events, and AI generation credits) | Collaborative browser-based 3D design and interactive web showroom tool enabling real-time physics, state events, and lightweight HTML/React embeds. |
+| **[Threedy (instant3Dhub)](https://threedy.io)** | **~$50M–$100M valuation** ($12M+ funding raised, spin-off from Fraunhofer IGD) | **Commercial / Quote-based** (No free tier; custom pricing based on enterprise infrastructure, streaming scale, and PLM/CAD integrations) | Enterprise spatial computing and industrial 3D streaming platform designed for rendering massive CAD datasets inside web showrooms and AR applications. |
+| **[Vectary](https://www.vectary.com/)** | **~$37M valuation** ($14.4M funding raised; ~$3.2M ARR) | **Freemium** (Free starter tier with Vectary watermark; paid tiers start at ~$12–$19/mo for AR previews, CAD imports, custom configurators, and commercial embedding) | Cloud 3D design and product configurator studio built for interactive web embeds, Augmented Reality previews, and no-code e-commerce showcases. |
+| **[PlayCanvas](https://playcanvas.com)** | **Multi-million exit** (Acquired by Snap Inc. in 2017) | **Freemium** (Free plan includes 1 GB storage and unlimited public projects with PlayCanvas splash screen; paid plans start at ~$15/mo for private projects and self-hosting downloads) | Cloud-hosted collaborative WebGL/WebGPU engine and visual editor widely used for building interactive virtual showrooms, automotive configurators, and web games. |
+| **[Clara.io](https://clara.io)** | **~$10M+ prior scale** (Pivoted/rebranded to Threekit, raising $65M; legacy service retired) | **Discontinued** (Previously freemium with 2 GB cloud storage; service retired Dec 2022 following pivot to Threekit) | Cloud-based 3D modeling, animation, and web rendering platform providing browser-native scene hosting and embeddable 3D viewers. |
+| **[Modelo](https://modelo.io)** | **~$3.4M+ raised** (Seed-stage venture funding, later acquired by Kujiale) | **Free Trial / Paid** (14-day free trial; paid subscriptions start at ~$16.58–$30/mo for individuals and ~$150/mo for teams) | Cloud-based 3D architectural and CAD collaboration platform offering browser walkthroughs, section cuts, and client presentation rooms. |
+| **[Marmoset Viewer](https://marmoset.co)** | **~$1.5M–$5M estimated revenue** (Established private software firm behind Toolbag) | **Free Viewer / Paid Creator** (Web viewer export runtime is free; Toolbag authoring software requires subscription at $18.99/mo or perpetual license at $399; 30-day free trial) | WebGL rendering package exported from Marmoset Toolbag for showcasing high-fidelity game art, PBR materials, and wireframe/topology passes in browsers. |
+| **[Soft8Soft (Verge3D)](https://soft8soft.com)** | **~$1M–$2M estimated revenue** (Bootstrapped profitable indie developer) | **Commercial / Perpetual License** (Free trial available with watermark; perpetual licenses from $290 Freelance, $990 Team, to $2,990 Enterprise) | Artist-friendly 3D web toolkit that converts Blender, 3ds Max, and Maya scenes into interactive WebGL showrooms and configurators using visual Puzzles scripting. |
+| **[p3d.in](https://p3d.in)** | **~$220k estimated ARR** (Independent boutique micro-SaaS) | **Freemium** (Free basic tier with 100 MB storage, 25 MB max file size, 5 unlisted models, non-commercial only; paid tiers start at ~$6.67/mo) | Streamlined cloud 3D model sharing and presentation platform featuring an interactive material editor, studio lighting presets, and mobile-ready embeds. |
 
 
 ## Open-Source GitHub Projects
